@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:0,NHK
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_nhk_g_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=dfa2eae3ef00452f8d55273bb79cf884&time=1696387406
+#EXTINF:0,NHK2
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_nhk_g_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=dfa2eae3ef00452f8d55273bb79cf884&time=1696387406
+#EXTINF:0,NHK3
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_nhk_g_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=dfa2eae3ef00452f8d55273bb79cf884&time=1696387406
+#EXTINF:0,NHK.HD
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:0,NHK.HD2
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_nhk_g_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=ca52784284331fad5f08a4390a29f12e&time=1737444639
+#EXTINF:0,NHK.HD3
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_nhk_g_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=ccac413b9f91642c521569c72ff50853&time=1737444657
+#EXTINF:0,NTV
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_nippon_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=0bc5940f0755be5a79193134d8b364b2&time=1696387327
+#EXTINF:0,NTV 2
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_nippon_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=0bc5940f0755be5a79193134d8b364b2&time=1696387327
+#EXTINF:0,NTV 3
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_nippon_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=0bc5940f0755be5a79193134d8b364b2&time=1696387327
+#EXTINF:0,NTV HD
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:0,NTV HD 2
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_nippon_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=1ea43b1df6e5701e005670990efff916&time=1737444695
+#EXTINF:0,NTV HD 3
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_nippon_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=83d21ba7fd9da2dc7c664e93af908af9&time=1737444715
+#EXTINF:0,NTV HD4
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_nippon_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=fb8a0ce6ffdc715b543dbdc7a803af13&time=1737444729
+#EXTINF:0,TBS
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tbs_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=cf1b62194a738dd8c064243823cfc5e2&time=1738468777
+#EXTINF:0,TBS 2
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tbs_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=5aaae9de528a690ff67bbd775ba2b951&time=1738468708
+#EXTINF:0,TBS 3
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tbs_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=0b1d011b66a7edc4251f904061e935e1&time=1738468731
+#EXTINF:0,TBS HD
+http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:0,TBS HD2
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tbs_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=92d420c05f3177893627fc530f9eca85&time=1737444760
+#EXTINF:0,TBS HD3
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tbs_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=7b52022b6928e64f78cde250a2be2fd4&time=1737444777
+#EXTINF:0,TBS HD4
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tbs_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=1e200d02ae51fbb0446920378c003565&time=1737444790
+#EXTINF:0,FujiTV
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_fuji_480&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=f5bc4b06001b37e0462954c786a6cc02&time=1721464110
+#EXTINF:0,FujiTV 2
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_fuji_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=d7f336588e3b40b14ed44916272467d6&time=1696387448
+#EXTINF:0,FujiTV 3
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_fuji_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=d7f336588e3b40b14ed44916272467d6&time=1696387448
+#EXTINF:0,FujiTV HD
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:0,FujiTV HD2
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_fuji_720&sid=djd8FM2eHa8LwTM8BpmuwS0yMc1vqD7YKqX4T2kg&secret=89c82559ed04ace27b4cdf747a89ffa0&time=1698566752
+#EXTINF:0,FujiTV HD3
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_fuji_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=c60d0027acf70bac2cb2d8be07c72e97&time=1721466290
+#EXTINF:0,FujiTV HD4
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_fuji_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=c5f159983f0e7d5da51dd6c2b4ecb5f6&time=1721466311
+#EXTINF:0,FujiTV HD5
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_fuji_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=cab3626fa10c3b933ad0c0792a05b15e&time=1737444839
+#EXTINF:0,TVAsahi
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_asahi_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=457e347b76f0be7bddf00c0dcb4d3235&time=1737274221
+#EXTINF:0,TVAsahi 2
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tv_asahi_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=1de8dc907031d9a88e8888cd6cdb24d1&time=1696387492
+#EXTINF:0,TVAsahi 3
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_tv_asahi_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=1de8dc907031d9a88e8888cd6cdb24d1&time=1696387492
+#EXTINF:0,TVAsahi HD
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:0,TVAsahi HD2
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=d0cab284eba97fbc12cb7f158b7c8451&time=1737444875
+#EXTINF:0,TVAsahi HD3
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=c6eb82b0b4a09fa2d0405f497d68ac04&time=1737444902
+#EXTINF:0,TVTokyo
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tv_tokyo_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=8c0c6f23257cad8ecf5186c0e22fcd65&time=1738468795
+#EXTINF:0,TVTokyo 2
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_tokyo_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=2fd336d37b96a99f5371a5190435de0e&time=1738468813
+#EXTINF:0,TVTokyo 3
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_tv_tokyo_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=69a9d0afee5f1dd47fe69681db61faaa&time=1696387506
+#EXTINF:0,TVTokyo HD
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:0,TVTokyo HD2
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=5700a58e70b47c1288ec28a740228fb8&time=1737444964
+#EXTINF:0,TVTokyo HD3
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=d9a5d04dfa50a67e85d9987ab6790e2b&time=1737444976
+#EXTINF:0,TVTokyo HD4
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=1553cf26cd226ffe64dd822a3d65a8e1&time=1737444990
+#EXTINF:0,TokyoMX
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tokyo_mx1_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=c31bf8af529d38043782b08003f098f4&time=1737445045
+#EXTINF:0,TokyoMX 2
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tokyo_mx1_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=5d60b27c4ee9b15145af428db54bb2e6&time=1737445063
+#EXTINF:0,TokyoMX 3
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tokyo_mx1_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=76d67d5041ab8601d372666de600ca9a&time=1737445075
+#EXTINF:0,TokyoMX HD
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tokyo_mx1_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=9c71e6403abc36d85e8079aa0e6d0478&time=1737445006
+#EXTINF:0,TokyoMX HD2
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tokyo_mx1_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=9d906d4ffa7ca95ecbf0d890cb0c741b&time=1737445018
+#EXTINF:0,TokyoMX HD3
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tokyo_mx1_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=b5645e2685b3c8d841c3b005a2ad3299&time=1737445028
+#EXTINF:0,SunTV
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kansi_sun_tv_720&sid=rX4MYxfXwQvwgLhKry2HFTjSOeIT4aG4d0f1MacV&secret=6a582f5531995c9080ea492111a004bc&time=1721462588
+#EXTINF:0,SunTV 2
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kansi_sun_tv_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=3fa0200ac6b80c134f320b9b06edeb80&time=1721464163
+#EXTINF:0,SunTV 3
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kansi_sun_tv_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=4dbec79d2978a4774105fd041029fd20&time=1721464196
