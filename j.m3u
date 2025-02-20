@@ -99,3 +99,23 @@ https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kansi_sun_tv_720&sid=
 https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kansi_sun_tv_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=3fa0200ac6b80c134f320b9b06edeb80&time=1721464163
 #EXTINF:0,SunTV 3
 https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kansi_sun_tv_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=4dbec79d2978a4774105fd041029fd20&time=1721464196
+#EXTINF:0,(ETHTV) FujiTV
+http://176868.cloud/a2dd0968516f9788be70b15635edddb2/b67a892ca9152be6f0962c70fc53d601/f3bbe47a1848ef4ae113c8ed95290b73/index.m3u8
+#EXTINF:0,(ETHTV) FujiTV 2
+http://176868.cloud/eff92eefb6ea9eb185e6e18fb7d52f76/b67a892ca9152be6f0962c70fc53d601/1b713a1354b402b8fb946ce88242e4d3/index.m3u8
+#EXTINF:0,(ETHTV) NTV
+http://176868.cloud/cdb80d6a1fdbbb9de0bac1de7dab6d8f/b67a892ca9152be6f0962c70fc53d601/be9e649600189c40890ae26a6dc618db/index.m3u8
+#EXTINF:0,(ETHTV) NTV 2
+http://176868.cloud/9ab7e6e573ed5c9185515120c07d47e9/b67a892ca9152be6f0962c70fc53d601/e4e2e2bacbe6268728835c0aa65be7e3/index.m3u8
+#EXTINF:0,(ETHTV) TBS
+http://176868.cloud/141b3d7f6bf03c89d69f661e459322e9/b67a892ca9152be6f0962c70fc53d601/c08443aca6265f5d2dbeba550e565286/index.m3u8
+#EXTINF:0,(ETHTV) TBS 2
+http://176868.cloud/2fed5eeecd13bee9decbdfb4ab5aab1e/b67a892ca9152be6f0962c70fc53d601/64a0b47156ad6da1d4866bb8f1e02472/index.m3u8
+#EXTINF:0,(ETHTV) TVAsahi
+http://176868.cloud/d0fab0a1b33f54eb7e844ee6a2258005/b67a892ca9152be6f0962c70fc53d601/d94a9652cb4b044442cf271e8cbb0faa/index.m3u8
+#EXTINF:0,(ETHTV) TVAsahi 2
+http://176868.cloud/740c3f7842d2630acc20bb4d853d77fb/b67a892ca9152be6f0962c70fc53d601/3859fb8bdc26b8d1c906236e2671fcd1/index.m3u8
+#EXTINF:0,(ETHTV) TVTokyo
+http://176868.cloud/4140c2d266400b28ed79671838dc12fd/b67a892ca9152be6f0962c70fc53d601/4e1d2e2a8464e535ab0c4921552a32e1/index.m3u8
+#EXTINF:0,(ETHTV) TVTokyo 2
+http://176868.cloud/33b499acb85ee18dce26a90a2474be60/b67a892ca9152be6f0962c70fc53d601/c25ad8613d9aee5cc5efa62c078ae7b6/index.m3u8
