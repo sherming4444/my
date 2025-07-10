@@ -64,9 +64,11 @@ https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_tv_asahi_480&sid=TdqW8
 #EXTINF:0,TVAsahi HD
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:0,TVAsahi HD2
-https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=d0cab284eba97fbc12cb7f158b7c8451&time=1737444875
+https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=Skp6lESem89Sbf7xn99H1UX1xLfWwWGLzkDHefqZ&secret=41f54afcc49229df6ebbf5dfaf50094f&time=1752166728
 #EXTINF:0,TVAsahi HD3
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=c6eb82b0b4a09fa2d0405f497d68ac04&time=1737444902
+#EXTINF:0,TVAsahi HD4
+https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_tv_asahi_720&sid=Skp6lESem89Sbf7xn99H1UX1xLfWwWGLzkDHefqZ&secret=069ea55b7f762248ea28f6c92cfeef34&time=1752166809
 #EXTINF:0,TVTokyo
 https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tv_tokyo_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=8c0c6f23257cad8ecf5186c0e22fcd65&time=1738468795
 #EXTINF:0,TVTokyo 2
