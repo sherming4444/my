@@ -8,7 +8,7 @@ https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_nhk_g_480&sid=TdqW8Mvz
 #EXTINF:0,NHK.HD
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:0,NHK.HD2
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_nhk_g_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=ca52784284331fad5f08a4390a29f12e&time=1737444639
+https://k227.jk-cdn.com/watch/live.m3u8?video=kanto_nhk_g_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=8302dd62ee9465f852279b090c0945bf&time=1769344501
 #EXTINF:0,NHK.HD3
 https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_nhk_g_720&sid=mraXq2Ri7r0rE4BsuPisTmERJQz7Fwj55MBbynk5&secret=9a06c8239aa1279be7e6363aeecb356e&time=1764161320
 #EXTINF:0,NHK.HD4
@@ -22,7 +22,7 @@ https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_nippon_480&sid=TdqW8Mv
 #EXTINF:0,NTV HD
 https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:0,NTV HD 2
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_nippon_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=1ea43b1df6e5701e005670990efff916&time=1737444695
+https://k227.jk-cdn.com/watch/live.m3u8?video=kanto_nippon_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=b5b4b1877a74eaaf8829d1d9088b79c5&time=1769344528
 #EXTINF:0,NTV HD 3
 https://live-edge-us-sv197.mujilive.com/watch/live.m3u8?video=kanto_nippon_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=beebddf8fb6783acb3bf517d7278b088&time=1767962578
 #EXTINF:0,NTV HD4
@@ -38,7 +38,7 @@ https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tbs_480&sid=RE2
 #EXTINF:0,TBS HD
 https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:0,TBS HD2
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tbs_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=92d420c05f3177893627fc530f9eca85&time=1737444760
+https://k227.jk-cdn.com/watch/live.m3u8?video=kanto_tbs_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=1dcc51b67864655d29528de8866b9f01&time=1769344549
 #EXTINF:0,TBS HD3
 https://live-edge-us-sv197.mujilive.com/watch/live.m3u8?video=kanto_tbs_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=18f78413306dd0df7a7a1f8f59e0cf94&time=1767962713
 #EXTINF:0,TBS HD4
@@ -56,7 +56,7 @@ https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:0,FujiTV HD2
 https://live-edge-us-sv197.mujilive.com/watch/live.m3u8?video=kanto_fuji_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=b15299422cc306be4376d0541d718f15&time=1767962751
 #EXTINF:0,FujiTV HD3
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_fuji_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=c60d0027acf70bac2cb2d8be07c72e97&time=1721466290
+https://live-th11.japantvmiru.com/watch/live.m3u8?video=kanto_fuji_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=afdd3534d1d31217220489f97c494aa7&time=1769344597
 #EXTINF:0,FujiTV HD4
 https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_fuji_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=c5f159983f0e7d5da51dd6c2b4ecb5f6&time=1721466311
 #EXTINF:0,FujiTV HD5
@@ -74,7 +74,7 @@ https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:0,TVAsahi HD2
 https://live-edge-us-sv197.mujilive.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=58f4dd62392a61961afc59ac6da5eec1&time=1767962829
 #EXTINF:0,TVAsahi HD3
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=c6eb82b0b4a09fa2d0405f497d68ac04&time=1737444902
+https://k227.jk-cdn.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=b9d16d23d0df93ff2a30204434d6cb1d&time=1769344612
 #EXTINF:0,TVAsahi HD4
 https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_tv_asahi_720&sid=Skp6lESem89Sbf7xn99H1UX1xLfWwWGLzkDHefqZ&secret=069ea55b7f762248ea28f6c92cfeef34&time=1752166809
 #EXTINF:0,TVAsahi HD5
@@ -88,11 +88,11 @@ https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_tv_tokyo_480&sid=TdqW8
 #EXTINF:0,TVTokyo HD
 https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:0,TVTokyo HD2
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=5700a58e70b47c1288ec28a740228fb8&time=1737444964
+https://k227.jk-cdn.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=70298e9d497e431abeac332daf4a14fa&time=1769344465
 #EXTINF:0,TVTokyo HD3
 https://live-edge-us-sv197.mujilive.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=aee598bcde80cdfe232ddea32046b310&time=1767962844
 #EXTINF:0,TVTokyo HD4
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=1553cf26cd226ffe64dd822a3d65a8e1&time=1737444990
+https://live-th11.japantvmiru.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=7bd7fa9ebc806af0808f7151586ee89f&time=1769344433
 #EXTINF:0,TVTokyo HD5
 https://v146.jk-cdn.com/watch/live.m3u8?video=kanto_tv_tokyo_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=1883e3866fca1ace4a39049c1a641023&time=1767962867
 #EXTINF:0,TokyoMX
@@ -102,7 +102,7 @@ https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tokyo_mx1_480&si
 #EXTINF:0,TokyoMX 3
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tokyo_mx1_480&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=76d67d5041ab8601d372666de600ca9a&time=1737445075
 #EXTINF:0,TokyoMX HD
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kanto_tokyo_mx1_720&sid=RE2LLFikM4p2pva2NsMJv48OX9ZqlJQga79BEmEy&secret=9c71e6403abc36d85e8079aa0e6d0478&time=1737445006
+https://k227.jk-cdn.com/watch/live.m3u8?video=kanto_tokyo_mx1_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=aefaf27c26dcb43a3ed8586fbb78616e&time=1769344631
 #EXTINF:0,TokyoMX HD2
 https://live-edge-us-sv197.mujilive.com/watch/live.m3u8?video=kanto_tokyo_mx1_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=7c046648b896d541033db277fbac14b6&time=1767962899
 #EXTINF:0,TokyoMX HD3
@@ -110,7 +110,7 @@ https://live-th11.japantvmiru.com/watch/live.m3u8?video=kanto_tokyo_mx1_720&sid=
 #EXTINF:0,TokyoMX HD4
 https://v146.jk-cdn.com/watch/live.m3u8?video=kanto_tokyo_mx1_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=07e51f7825c5c6c005ac3abb8ed886d5&time=1767962882
 #EXTINF:0,SunTV
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kansi_sun_tv_720&sid=rX4MYxfXwQvwgLhKry2HFTjSOeIT4aG4d0f1MacV&secret=6a582f5531995c9080ea492111a004bc&time=1721462588
+https://k227.jk-cdn.com/watch/live.m3u8?video=kansi_sun_tv_720&sid=8IHoGxF0Hp4nJzESCf7nJsiK54qUMflK888GQrC1&secret=ea5acb7cfabcae14c72fd9014deeaefa&time=1769344655
 #EXTINF:0,SunTV 2
 https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kansi_sun_tv_720&sid=6UfUvVezZZ4Xhiq5QTkP7e7iprNrhEIGYuSDN6bL&secret=3fa0200ac6b80c134f320b9b06edeb80&time=1721464163
 #EXTINF:0,SunTV 3
