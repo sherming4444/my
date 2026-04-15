@@ -52,7 +52,7 @@ https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_fuji_480&sid=Tdq
 #EXTINF:0,FujiTV 3
 https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_fuji_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=d7f336588e3b40b14ed44916272467d6&time=1696387448
 #EXTINF:0,FujiTV HD
-https://nl.utako.moe/Fuji_TV/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:0,FujiTV HD2
 https://live-edge-us-sv197.mujilive.com/watch/live.m3u8?video=kanto_fuji_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=b15299422cc306be4376d0541d718f15&time=1767962751
 #EXTINF:0,FujiTV HD3
