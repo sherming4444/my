@@ -70,7 +70,7 @@ https://live-cdn-us186.mujilive.com/watch/live.m3u8?video=kanto_tv_asahi_480&sid
 #EXTINF:0,TVAsahi 3
 https://cdn.th11.jpnettv.live/watch/live.m3u8?video=kanto_tv_asahi_480&sid=TdqW8MvzQlf3naxtEOMvF0UhImFqiUfzCwiU6baI&secret=1de8dc907031d9a88e8888cd6cdb24d1&time=1696387492
 #EXTINF:0,TVAsahi HD
-http://58.82.168.138:5002/gd06.m3u8?token=guoziyun&gid=gd06&channel=zhongying
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd06
 #EXTINF:0,TVAsahi HD2
 https://live-edge-us-sv197.mujilive.com/watch/live.m3u8?video=kanto_tv_asahi_720&sid=lzq72Jls6rMT0QJJr91FKz52Ff4f2JDiG4xWEyTC&secret=58f4dd62392a61961afc59ac6da5eec1&time=1767962829
 #EXTINF:0,TVAsahi HD3
